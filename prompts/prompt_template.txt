@@ -1,0 +1,7 @@
+Generate a short, engaging tweet (under 280 characters) on the topic: "{topic}".
+
+Guidelines:
+- Use a conversational tone
+- Add emojis when it makes sense
+- Don't include hashtags or links
+- Make it sound human-written
