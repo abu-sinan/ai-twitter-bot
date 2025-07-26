@@ -1,0 +1,14 @@
+ai-twitter-bot/
+│
+├── prompts/
+│   └── prompt_template.txt         # Gemini 2.0 Flash tweet prompt
+│
+├── data/
+│   └── topics.txt                  # List of topics
+│
+├── zapier/
+│   └── zap_config.md               # Full Zapier setup guide
+│
+├── README.md                       # Project overview
+├── .gitignore                      # Ignored files
+├── LICENSE                         # MIT License
