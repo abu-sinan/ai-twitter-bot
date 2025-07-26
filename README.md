@@ -1,4 +1,5 @@
-# 🤖 AI Twitter Bot (Gemini + Zapier + Buffer)
+![AI Twitter Bot](https://github.com/abu-sinan/ai-twitter-bot/blob/main/assets%2Ffile_00000000460461f7adb170100d87e54b.png)
+# 🤖 AI Twitter (X) Bot (Gemini + Zapier + Buffer)
 
 This bot posts AI-generated tweets every 12 hours using **Gemini 2.0 Flash**, **Zapier**, and **Buffer**. It randomly picks a topic, asks Gemini to write a tweet, and adds it to your Buffer queue.
 
@@ -38,10 +39,10 @@ Tweets are generated and scheduled **every 12 hours** using Zapier. Buffer handl
 - Chatbot techniques
 - Artificial Intelligence tools
 
-(See full list in `data/topics.txt`)
+[See full list](https://github.com/abu-sinan/ai-twitter-bot/blob/main/data/topics.txt)
 
 ---
 
 ## 📑 License
 
-[MIT](LICENSE)
+[MIT](https://github.com/abu-sinan/ai-twitter-bot/blob/main/LICENSE)
